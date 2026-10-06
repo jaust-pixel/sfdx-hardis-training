@@ -1,0 +1,5 @@
+{
+    "vsCodeSfdxHardis.autorunCommands": [
+        "node scripts/training.mjs"
+    ]
+}
